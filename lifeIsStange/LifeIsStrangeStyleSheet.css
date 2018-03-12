@@ -1,0 +1,50 @@
+﻿body {
+}
+.Container{
+    display:grid;
+}
+.grid-item-1 {
+    background-color: coral;
+    background-size: auto;
+    border-image-width: 25px
+}
+.grid-item-2{
+ 
+    
+    background-color: red;
+    color:white;
+    
+ 
+}
+.grid-item-3{
+    background-image: url('image/junkyard.jpg');
+    background-size:cover;
+    text-align:right;
+    height: 500px;
+
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display:inline;
+}
+li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    margin:10px;
+}
+#HeaderImage{
+    height:50%;
+    width:30%;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.jumbotron{
+    margin-top:10%;
+}
+
+
+
+
